@@ -37,6 +37,11 @@ export default function Navbar() {
               About Us
             </div>
           </Link>
+          <Link href="/teams">
+            <div className="hover:scale-110 transition duration-300 transform">
+              Teams
+            </div>
+          </Link>
           <Link href="#service">
             <div className="hover:scale-110 transition duration-300 transform">
               Services
