@@ -31,7 +31,7 @@ export default function Event() {
                 className=" h-full w-full object-cover hover:scale-125 rounded-md  ease-in duration-150"
                 src="/pacuJawi.jpg"
                 alt="pacu jawi"
-                width={300}
+                width={200}
                 height={200}
                 priority
               />
